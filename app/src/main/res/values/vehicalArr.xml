@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="vehical_array">
+        <item>Select Vehicle</item>
+        <item>MH-15 EE 1488</item>
+    </string-array>
+
+    <string-array name="driver_array">
+        <item>Select Driver</item>
+        <item>Uday Devlal</item>
+        <item>Swapnil Kulkarni</item>
+    </string-array>
+
+    <string-array name="operature_array">
+        <item>Select Operator</item>
+        <item>Ola</item>
+        <item>Uber</item>
+    </string-array>
+</resources>

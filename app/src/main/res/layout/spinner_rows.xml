@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+ android:layout_width="fill_parent"
+ android:layout_height="wrap_content"
+ android:orientation="vertical"
+
+>
+    <TextView
+         android:textColor="#000"
+         android:id="@+id/company"
+        android:textSize="15dp"
+
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+        android:dropDownWidth="wrap_content"
+        android:background="@drawable/bg_edittext"
+
+
+        />
+
+</RelativeLayout>

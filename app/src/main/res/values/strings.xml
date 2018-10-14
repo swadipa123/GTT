@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">GT&amp;T</string>
+    <string name="title_activity_daily">DailyActivity</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="hello">Custom Spinner</string>
+    <string name="defaultText">  Select your Company  </string>
+    <drawable name="Blue">#b0e0e6</drawable>
+    <drawable name="white">#ffffff</drawable>
+    <drawable name="black">#000000</drawable>
+    <drawable name="green">#347C2C</drawable>
+    <drawable name="pink">#FF00FF</drawable>
+    <drawable name="violet">#a020f0</drawable>
+    <drawable name="grey">#cccccc</drawable>
+    <drawable name="red">#C11B17</drawable>
+    <drawable name="yellow">#FFFF8C</drawable>
+    <drawable name="PowderBlue">#b0e0e6</drawable>
+    <drawable name="brown">#2F1700</drawable>
+    <string name="select_Category">Select Company</string>
+    <drawable name="darkgrey">#606060</drawable>
+</resources>
